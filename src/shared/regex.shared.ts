@@ -1,0 +1,3 @@
+class CommonRegExp {}
+
+export { CommonRegExp };

@@ -1,0 +1,12 @@
+export enum JobPostStatus {
+	DRAFT = 'DRAFT',
+	PUBLISH = 'PUBLISH',
+	CLOSE = 'CLOSE',
+	DELETE = 'DELETE',
+	ACTIVE = 'ACTIVE',
+	EXPIRED = 'EXPIRED',
+	REJECT = 'REJECT',
+	SHORTLIST = 'SHORTLIST',
+	APPLY = 'APPLY',
+	SAVE = 'SAVE'
+}
